@@ -15,7 +15,7 @@ Dataset contains 3 primary types of information:
 1. User Data that contains key demographic and personal information about customer: Customer Id, Surname, Credit Score, Geography, Gender, Age, Has Credit Card, Estimated Salary, Exited
 2. Card Data that tell information about and product usage: Balance, Number of Products, Card Type, Point Earned
 3. Sentiment Driver which reflects customer satisfaction and engagement: Complain, Satisfaction Score, Is Active Member
-4. 
+   
 12 features with an integer data type, 4 features with an object data type, and 2 features with a float data type. Conversion of data type to int format needed.
 
 **PROCEDURE**
